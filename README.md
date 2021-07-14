@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 # Installing Portfolio application
 To open the application, follow these steps:
 macOS and Windows:
-1. Open your terminal and run "node index.js"
+1. Open your terminal and run "node index.js". Take note of the port number listed in the command line.
 2. Open Google Chrome and go to localhost:{port number}
 3. Click the "Get Started" button to enter the application
 
